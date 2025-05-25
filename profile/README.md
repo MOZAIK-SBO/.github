@@ -1,8 +1,8 @@
 # MOZAIK: Scalable and Secure Data Sharing
 
-MOZAIK is a research project building secure tools to process and share sensitive data. This organization contains the open source tools we're building as part of this project.
+MOZAIK is a research project building secure tools to process and share sensitive data. This organization contains the open-source tools we're building as part of this project.
 
-
+This work is supported by the Flemish Government through FWO SBO project MOZAIK S003321N.
 
 <img src="https://github.com/MOZAIK-SBO/.github/assets/1492981/99f02cf1-9cbc-41e6-ae99-cb1316407873" alt="logo" width="600"/>
 
