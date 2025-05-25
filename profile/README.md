@@ -4,7 +4,7 @@ MOZAIK is a research project building secure tools to process and share sensitiv
 
 This work is supported by the Flemish Government through FWO SBO project MOZAIK S003321N.
 
-<img src="https://github.com/MOZAIK-SBO/.github/assets/1492981/99f02cf1-9cbc-41e6-ae99-cb1316407873" alt="logo" width="600"/>
+<img src="https://github.com/MOZAIK-SBO/.github/assets/1492981/99f02cf1-9cbc-41e6-ae99-cb1316407873" alt="logo" width="612.5"/>
 
 </br>
 
